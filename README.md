@@ -4,7 +4,7 @@
 
 >Εισαγωγή στην Τεχνολογία Λογισμικού
 
-## 🔨 Requirements
+## 🧰 Requirements
 
 #### [NetBeans 8.2](https://netbeans.org/downloads/8.2/)
 
