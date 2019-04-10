@@ -13,7 +13,8 @@
 #### [SceneBuilder](https://gluonhq.com/products/scene-builder/)
 
 ## 📝Notes
->Texts Language: Greek
+>1) Texts Language: Greek
+>2) Using .txt files for users-students,teachers
 
 ## 📝Documentation
 * [Ερωτηματολόγιο](https://github.com/Fotic/School-Managment-on-JavaFX/blob/master/%CE%95%CE%A1%CE%A9%CE%A4%CE%97%CE%9C%CE%91%CE%A4%CE%9F%CE%9B%CE%9F%CE%93%CE%99%CE%9F.pdf)
