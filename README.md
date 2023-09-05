@@ -1,4 +1,4 @@
-# Διαχείριση Σχολείου σε JavaFX - School Managment on JavaFX
+# Διαχείριση Σχολείου σε JavaFX - School Management on JavaFX
 
 ## ❓ About
 
